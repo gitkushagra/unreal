@@ -33,7 +33,7 @@ Finally, I express my sincere thanks to all staff members in the department of I
 
 ### OPEN WORLD LANDSCAPE USING UNREAL ENGINE
 
-![Unreal_Logo](https://gitkushagra.github.io/unreal/Images/unreallogo.png)
+                 ![Unreal_Logo](https://gitkushagra.github.io/unreal/Images/unreallogo.png)
 
 ![About](https://gitkushagra.github.io/unreal/Images/1.png)
 
