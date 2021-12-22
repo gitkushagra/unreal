@@ -100,8 +100,8 @@ Finally, I express my sincere thanks to all staff members in the department of I
                                            Unreal Engine 101 – 3D Game Creation
                                            
                This course is available for FREE on udemy and do not provide any certification. The link to the course is as:
-               <a href="http://kushagraprofile.xyz">
-         <img alt="Go to Profile" src="https://gitkushagra.github.io/medstore/Images/home.png" width="50" height="60"></a>
+<a href="http://kushagraprofile.xyz">
+<img alt="Go to Profile" src="https://gitkushagra.github.io/medstore/Images/home.png" width="50" height="60"></a>
 
                                           
 
