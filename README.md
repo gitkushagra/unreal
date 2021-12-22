@@ -29,10 +29,10 @@ Finally, I express my sincere thanks to all staff members in the department of I
 
 ## PROJECT
 
-### MEDICAL STORE MANAGEMENT SYSTEM
+### OPEN WORLD LANDSCAPE USING UNREAL ENGINE
 
 It is a management system of Medical Store, to maintain and manage record of medicines, employees and transactions related information.
-It is a one stop intelligent solution of problems every medical store owners faces.
+It is a one stop intelligent solution of problems every medical store owners faces.EN
 Moreover, its friendly GUI makes it more useful and time saving.
 Administrator can manage everything, and each employee will have there own account, thus, making each employee work private from each other. However, ADMIN can observe everything.
 
