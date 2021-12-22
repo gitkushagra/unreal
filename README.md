@@ -101,22 +101,8 @@ Finally, I express my sincere thanks to all staff members in the department of I
                                            
                This course is available for FREE on udemy and do not provide any certification. 
                The link to the course is as:
-               
+               https://www.udemy.com/share/103wj43@41UzYxgsmT1VNhp3fddbscwJEZFEWL26N6eaIVn5OO9kfnV8RuAiEPfTo15yYic0/
 
-
-  
-## LINK TO COURSE
-  
-<a href="http://kushagraprofile.xyz">
-<img alt="Go to Profile" src="https://gitkushagra.github.io/medstore/Images/home.png" width="50" height="60"></a>
-
-                                          
-                                          
-                                          
-                                          
-                                          
-                                          
-                                          
 
                                                                THANK YOU!
                                                           ---KUSHAGRA SINGH---
