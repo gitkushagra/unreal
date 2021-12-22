@@ -31,16 +31,9 @@ Finally, I express my sincere thanks to all staff members in the department of I
 
 ### OPEN WORLD LANDSCAPE USING UNREAL ENGINE
 
-It is a management system of Medical Store, to maintain and manage record of medicines, employees and transactions related information.
-It is a one stop intelligent solution of problems every medical store owners faces.EN
-Moreover, its friendly GUI makes it more useful and time saving.
-Administrator can manage everything, and each employee will have there own account, thus, making each employee work private from each other. However, ADMIN can observe everything.
+![Unreal_Logo](https://gitkushagra.github.io/unreal/Images/unreallogo.png)
 
-Employees will only have rights for adding records, and there attendance is monitored within the application. Employees can reset the password either by their unique User Name or by directly contacting the administrator of the store.
 
-Administrator credentials are given below, they can not be reset by the admin itself, if in case lost or forgotten. Admin needs to contact the engineer for the recovery.
-User Name: admin
-Password: root
 For this project, Java language and MySQL databases are used.
 
 ```markdown
