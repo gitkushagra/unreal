@@ -20,7 +20,12 @@ I am Kushagra Singh studying in Galgotias College of engineering and technology,
 
                                                   ACKNOWLEDGEMENT
 
-I am very thankful to my parents and teachers SIR RANJEET KUMAR and Dr. SANDEEP SAXENA for providing me this golden opportunity in mini project. This mini project helped me a lot in revision of my concepts of JAVA, MySQL and their connectivity. My deep gratitude also goes to MySQL online reference material, which is available for free and YouTube videos explainng the concepts. All credits of images used in each panels are obtained by Google Image Search and each image credit goes to their respective owners.
+I want to give special thanks to our Mini Project instructor Dr. Javed Miya Khan for the timely advice and valuable guidance during designing and implementation of this project work.
+
+I also want to express my sincere thanks and gratitude to Dr. Sanjeev Kumar Singh, Head of Department (HoD), and Information Technology Department for providing me with the facilities and for all the encouragement and support.
+
+Finally, I express my sincere thanks to all staff members in the department of Information Technology branch for all the support and cooperation.
+
 
 ## PROJECT
 
