@@ -103,11 +103,7 @@ Finally, I express my sincere thanks to all staff members in the department of I
     
     
     
-    
-    
-    
--------------------------------------------------------------------------------------------------------------------------------------------------------------------    
-```markdown
+
                                                 COURSE THAT HELPED A LOT
                                                       
                                            Unreal Engine 101 – 3D Game Creation
